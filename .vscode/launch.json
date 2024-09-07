@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SelctionSortGFG",
+            "request": "launch",
+            "mainClass": "Solutions.SelctionSortGFG",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "EquilibriumIndex",
+            "request": "launch",
+            "mainClass": "Solutions.EquilibriumIndex",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "EquilibriumIndex",
             "request": "launch",
             "mainClass": "basicJava.EquilibriumIndex",
