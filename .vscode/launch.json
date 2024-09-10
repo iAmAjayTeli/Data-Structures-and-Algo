@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HeapSortPractice",
+            "request": "launch",
+            "mainClass": "Solutions.HeapSortPractice",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "Solutions.HeapSort",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "SelctionSortGFG",
             "request": "launch",
             "mainClass": "Solutions.SelctionSortGFG",
