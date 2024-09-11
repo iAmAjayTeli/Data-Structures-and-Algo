@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "Solutions.MergeSort",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "HeapSortPractice",
             "request": "launch",
             "mainClass": "Solutions.HeapSortPractice",
