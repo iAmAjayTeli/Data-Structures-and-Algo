@@ -19,7 +19,7 @@ public class binarySearch {
             start= middle+1;
         }
         else if (target<arr[middle]) {
-            end= middle-1;
+            end= middle-1; 
             
         }
         else{
