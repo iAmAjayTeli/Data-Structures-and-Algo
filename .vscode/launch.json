@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortInWave",
+            "request": "launch",
+            "mainClass": "Solutions.SortInWave",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "DivisibleUptoRange",
+            "request": "launch",
+            "mainClass": "Solutions.DivisibleUptoRange",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "NumberIntoDIgit",
             "request": "launch",
             "mainClass": "Solutions.NumberIntoDIgit",
