@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maze",
+            "request": "launch",
+            "mainClass": "Solutions.maze",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "IsArrayInSorted",
             "request": "launch",
             "mainClass": "Solutions.IsArrayInSorted",
