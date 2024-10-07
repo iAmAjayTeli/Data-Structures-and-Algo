@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IsArrayInSorted",
+            "request": "launch",
+            "mainClass": "Solutions.IsArrayInSorted",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "CommandLineArgument",
+            "request": "launch",
+            "mainClass": "Solutions.CommandLineArgument",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "factorialPractice",
+            "request": "launch",
+            "mainClass": "Solutions.factorialPractice",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "SortInWave",
             "request": "launch",
             "mainClass": "Solutions.SortInWave",
