@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Solutions.Permutation",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "SkipCharacter",
+            "request": "launch",
+            "mainClass": "Solutions.SkipCharacter",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
+            "name": "Stream",
+            "request": "launch",
+            "mainClass": "Solutions.Stream",
+            "projectName": "DSA_77514479"
+        },
+        {
+            "type": "java",
             "name": "maze",
             "request": "launch",
             "mainClass": "Solutions.maze",
